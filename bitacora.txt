@@ -29,3 +29,8 @@
  25	checkout develop
  26	merge --no-ff feature/Ticket220		sin conflicto
  27	merge --no-ff feature/Ticket221	+ add + commit	conflicto
+ 29	add + commit 
+ 30	tag "Step29"
+ 31	push origin develop
+ 32	checkout feature/Ticket222
+ 33	checkout develop bitacora.txt
