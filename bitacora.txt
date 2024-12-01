@@ -13,10 +13,16 @@
  06	add + commit
  07	branch develop
  08	branch feature/Ticket220 + checkout
+ 10	add + commit
+ 11	checkout develop
+ 12	branch feature/Ticket221 + checkout feature/Ticket221
  14	stash + checkout feature/Ticket220
+ 16	add + commit
+ 17	checkout feature/Ticket221
  18	stash apply
  19	add + commit
  20	checkout develop
  21	branch feature/Ticket222
  22	checkout feature/Ticket220 	
  23	fast-forward			porque el ultimo commit en develop ya esta en ticket220
+
