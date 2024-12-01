@@ -25,4 +25,7 @@
  21	branch feature/Ticket222
  22	checkout feature/Ticket220 	
  23	fast-forward			porque el ultimo commit en develop ya esta en ticket220
-
+ 24	add + commit
+ 25	checkout develop
+ 26	merge --no-ff feature/Ticket220		sin conflicto
+ 27	merge --no-ff feature/Ticket221	+ add + commit	conflicto
