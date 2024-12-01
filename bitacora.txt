@@ -13,3 +13,4 @@
  06	add + commit
  07	branch develop
  08	branch feature/Ticket220 + checkout
+ 14	stash + checkout feature/Ticket220
