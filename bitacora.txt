@@ -10,3 +10,8 @@
  02	editar
  03	add + commit
  04	push
+ 10	add + commit
+ 11	checkout develop
+ 12	branch feature/Ticket221 + checkout feature/Ticket221
+ 16	add + commit
+ 17	checkout feature/Ticket221
