@@ -34,3 +34,8 @@
  31	push origin develop
  32	checkout feature/Ticket222
  33	checkout develop bitacora.txt
+ 35	add + commit 
+ 36	checkout develop
+ 37	merge --no-ff feature/Ticket222 + add + commit   conflicto mantenemos cambios
+ 38	checkout main
+ 39	merge --no-ff develop
