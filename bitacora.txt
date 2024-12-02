@@ -26,4 +26,5 @@
  26	add + commit -m "Paso 26"
  27	tag "RespuestaPreguntaFusion"
  28	push origin main + push origin "RespuestaPreguntaFusion"
-
+ 30	add + commit -m "Paso 30"
+ 31	merge Historia001	editar add commit
