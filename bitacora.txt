@@ -6,4 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ===============================
-
+ 22	add bitácora.txt
+ 23	commit -m "Paso 23"
+ 24	checkout master
+ 25	ff
