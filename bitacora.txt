@@ -6,4 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ===============================
-
+ 03	branch Historia000
+ 04	branch Historia001
+ 05	checkout Historia000
